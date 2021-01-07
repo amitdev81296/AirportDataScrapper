@@ -6,10 +6,10 @@ Here we present a dataset that stores information about airports such as airport
 
     Dataset Name                Airports
     Institution Name            Drexel University, Philadelphia, PA
-    Data Investigators          Alex Van Kooy
-                                Amit Nijsure
-                                Fernando Ramirez
-                                Abdulaziz Alquzi
+    Data Investigators          Alex Van Kooy (Skeleton Code For Pulling Data)
+                                Amit Nijsure (Looping The Skeleton Code Over All Alphabets)
+                                Fernando Ramirez (Storing and Consolidation of Data)
+                                Abdulaziz Alquzi (Filling in Missing Data)
     Contact Person              Prof. Christopher MacLellan
     Date of Data Collection     28 November, 2020
     Data Collected From         Wikipedia
